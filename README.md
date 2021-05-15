@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bill (@pbillstephen)
 - 👀 I’m interested in Software Delivery through DevOps practice
-- 🌱 I’m currently learning on how to align my thinking towards computation
+- 🌱 I’m currently learning how to align my thinking towards computation
 - 📫 You can reach me on Twitter - @billstephen95
 
 <!---
